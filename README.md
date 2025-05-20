@@ -1,1 +1,1 @@
-# RabbitMQConnection
+# RabbitMQ: a resilient connection
